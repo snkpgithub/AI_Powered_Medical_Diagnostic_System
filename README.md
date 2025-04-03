@@ -8,6 +8,9 @@ This project is a deep learning-based medical diagnostic pipeline designed to de
 
 ---
 
+## Architecture
+![Architecture Image](https://github.com/snkpgithub/AI_Powered_Medical_Diagnostic_System/blob/main/Architecture.png)
+
 ## 🚀 Features
 
 - 🧠 **Deep Learning Models:** ResNet, EfficientNet, Swin Transformer
