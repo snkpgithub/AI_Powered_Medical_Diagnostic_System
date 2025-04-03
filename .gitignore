@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Model weights and logs
+*.pth
+*.pt
+logs/
+checkpoints/
+
+# AWS config
+*.zip
+*.egg-info
+
+# System files
+.DS_Store
+Thumbs.db
