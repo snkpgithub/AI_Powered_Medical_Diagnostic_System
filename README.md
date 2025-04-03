@@ -60,9 +60,9 @@ AI_Powered_Medical_Diagnostic_System/
 
 ---
 
-## 🖼 Example Output
+## Example Output
 
-![Grad-CAM Example](https://github.com/snkpgithub/AI_Powered_Medical_Diagnostic_System/assets/sample_gradcam.png) <!-- Replace with real link if available -->
+![Grad-CAM Example](https://github.com/snkpgithub/AI_Powered_Medical_Diagnostic_System/blob/main/sample_gradcam_output.png) <!-- Replace with real link if available -->
 
 ---
 
